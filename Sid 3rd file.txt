@@ -1,0 +1,2 @@
+This is Terminator & This is first version of my file. v1
+Adding configuration into file. v3
